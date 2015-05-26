@@ -1,0 +1,32 @@
+<!-- Most valid html will work in here, excluding images. -->
+
+
+
+
+<font size="6">Welcome to the Citadel Station 13!</font>
+
+<font color=#0000FF>This server uses the latest /tg/ code with a bit of vore, custom species, and size play added to the mix.</font>
+
+
+<font size="5">-Rules-</font>
+<font color=#FF0000>0. Always use F1 to ask an admin if you are unsure about something
+1. Dont grief
+2. Dont metagame
+       -No grudging from past rounds
+       -Dont import drama
+       -Dont multikey</font>
+
+
+
+
+<b>Station Forum:</b><font color=#2E64FE>http://bit.ly/1tW5rOY</font>
+<b>FurAffinity Post:</b></b><font color=#2E64FE>http://bit.ly/1GQNt7y</font>
+<b>Donations:</b> :</b><font color=#2E64FE>http://bit.ly/1xGAS1v</font>
+<b>Ekas Thread: </b> :</b><font color=#2E64FE>http://bit.ly/1tsnvx1</font>
+<b>Public Skype: </b> :</b><font color=#2E64FE>http://tinyurl.com/okcfhex</font>
+
+
+
+<font color=#DF0101><b>Latest News(4/16/2015): Vore should no longer be lethal when digestion is set off. Species layers are still somewhat buggy. As always, please report any bugs you find on the forums.</b></font>
+
+
